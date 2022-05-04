@@ -1,11 +1,11 @@
-# TypeingGame_Javascript
+# 자바스크립트 를 이용한 타자연습 게임프로젝트
 
-# Html5
+## Html5
 
-# Css3
+## Css3
 
-# Javascript
+## Javascript
 
-# Axios
+## Axios
 
-# random-word-api
+## random-word-api
